@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-backgroundDark text-textWhite font-sans;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+.glass-card {
+  @apply bg-white/5 backdrop-blur-md rounded-[24px];
+}
+
+.card-style {
+  @apply bg-cardBackground/50 rounded-[24px] border border-white/10 overflow-hidden;
+}
