@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pdd-app/static/css/main.d4d1d19a.css",
+    "main.js": "/pdd-app/static/js/main.63d361f0.js",
+    "index.html": "/pdd-app/index.html",
+    "main.d4d1d19a.css.map": "/pdd-app/static/css/main.d4d1d19a.css.map",
+    "main.63d361f0.js.map": "/pdd-app/static/js/main.63d361f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4d1d19a.css",
+    "static/js/main.63d361f0.js"
+  ]
+}
