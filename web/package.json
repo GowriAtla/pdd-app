@@ -2,6 +2,7 @@
   "name": "new-app-web",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://GowriAtla.github.io/pdd-app",
   "dependencies": {
     "clsx": "^2.0.0",
     "date-fns": "^2.30.0",
@@ -17,8 +18,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "lint": "eslint src"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
